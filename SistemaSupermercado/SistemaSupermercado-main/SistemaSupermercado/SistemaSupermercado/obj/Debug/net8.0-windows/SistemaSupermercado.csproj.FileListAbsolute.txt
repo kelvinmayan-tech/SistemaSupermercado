@@ -1,0 +1,57 @@
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.exe
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.deps.json
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.runtimeconfig.json
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.dll
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.pdb
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.csproj.AssemblyReference.cache
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.AssemblyInfoInputs.cache
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.AssemblyInfo.cs
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaS.DA92C872.Up2Date
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.dll
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\refint\SistemaSupermercado.dll
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.pdb
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.genruntimeconfig.cache
+C:\Users\Mayan Neri\Documents\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\ref\SistemaSupermercado.dll
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.exe
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.deps.json
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.runtimeconfig.json
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.dll
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.pdb
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.csproj.AssemblyReference.cache
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.AssemblyInfoInputs.cache
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.AssemblyInfo.cs
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaS.DA92C872.Up2Date
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.dll
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\refint\SistemaSupermercado.dll
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.pdb
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.genruntimeconfig.cache
+C:\Users\EDS\Desktop\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\ref\SistemaSupermercado.dll
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.exe
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.deps.json
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.runtimeconfig.json
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.dll
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.pdb
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\MySqlConnector.dll
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.csproj.AssemblyReference.cache
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.AssemblyInfoInputs.cache
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.AssemblyInfo.cs
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.csproj.CoreCompileInputs.cache
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaS.DA92C872.Up2Date
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.dll
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\refint\SistemaSupermercado.dll
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.pdb
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.genruntimeconfig.cache
+c:\Users\Mayan Neri\Downloads\SistemaSupermercado-main\SistemaSupermercado-main\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\ref\SistemaSupermercado.dll
