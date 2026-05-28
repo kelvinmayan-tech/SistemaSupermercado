@@ -2,7 +2,10 @@
 
 ## Integrantes
 
-- Kelvin Mayan Ramos Neri RA: 923206227
+- Kelvin Mayan Ramos Neri
+RA: 923206227
+- Michel Araujo de Souza
+RA: 925116131
   
 ## Descrição do Projeto
 
